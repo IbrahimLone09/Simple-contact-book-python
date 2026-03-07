@@ -20,12 +20,12 @@ one can use following features using this contact system
 
 ## How it works
 
-The program stores contacts using a python
-dictionary where:
-Name = key
-phone number = value
+- The program stores contacts using a python
+- dictionary where:
+- Name = key
+- phone number = value
 
-user can choose options from a menu to manage contacts.
+- user can choose options from a menu to manage contacts.
 
 ## How to run
 
@@ -33,7 +33,7 @@ user can choose options from a menu to manage contacts.
 2. open terminal or command prompt
 3. run the program
  
- python contact_book.py
+- python contact_book.py
 
  ## Author
  Ibrahim lone
