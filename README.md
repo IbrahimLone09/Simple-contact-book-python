@@ -35,7 +35,9 @@ one can use following features using this contact system
  
 - python contact_book.py
 
- ## Author
- Ibrahim lone
+ 👨‍💻 Author
+
+Ibrahim Lone
+
 
 
